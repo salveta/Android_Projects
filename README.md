@@ -1,9 +1,8 @@
 Android_Projects
 ================
-This is my folder with my Android Projects
 
+In this repository you can find the APP 'Mis Lugares, where you can show your favourites places. 
+You can connect with google Maps and add your favourites places among other features as interact between windows etc..
 
-Mis_Lugares is a APP to show your favourites places. You can connect with google Maps and add your favourites places, for example
+Feel free to try it.
 
-
-my android projects
